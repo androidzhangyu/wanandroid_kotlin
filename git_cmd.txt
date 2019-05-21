@@ -1,0 +1,6 @@
+1、git status  检测状态
+2、git add (.  所有)
+3、git pull（远程仓库整合以及更新）
+4、git commit -m "modify"  (提交所有)
+5、git pull（远程仓库整合以及更新）
+6、git push
